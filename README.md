@@ -166,7 +166,7 @@ MIT License — use freely, attribute appropriately.
 
 ## Contact
 
-[Your contact information]
+Find me on bluesky: https://bsky.app/profile/farwanderers.bsky.social
 
 ---
 
